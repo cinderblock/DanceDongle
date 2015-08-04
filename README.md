@@ -12,11 +12,11 @@ Enabled the 485 receiver when the FTDI is on
 ##### FTDI TXDEN - 485 Drive Enable
 Enable the 485 transmitter whenever bytes are sent
 
-##### FTDI RTS(out) - RJ-45 Next
+##### FTDI RTS(out) - RJ-45 Next (P3)
 Use RTS to assert (hold low) the Next line
 
-##### FTDI CTS(in)  - RJ-45 Next
+##### FTDI CTS(in)  - RJ-45 Next (P3)
 Use CTS to detect asserted line
 
-##### FTDI DSR/DCD - RJ-45 Detect
+##### FTDI DSR/DCD - RJ-45 Detect (P4)
 If a slave is connected to the RJ-45, it will pull these lines low.
