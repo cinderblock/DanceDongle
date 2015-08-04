@@ -1,7 +1,8 @@
 # DanceDongle - A USB to FTDI to RS-485 + Next for the Disco Dance Floor
 
-A simple little PCB with two main components, an FTDI USB to ttl-232 converter and
-a ttl-232 to RS-485 converter, and the RJ-45 connector for the DiscoDanceFloor project.
+A simple little PCB with two main components, an FTDI USB to ttl-232 converter
+(FT232RL) and a ttl-232 to RS-485 converter (ISL81487 8-SOIC), and the RJ-45
+connector wired for the DiscoDanceFloor project.
 
 ## Connected channels
 
